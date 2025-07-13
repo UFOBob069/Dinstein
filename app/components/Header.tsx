@@ -15,8 +15,8 @@ export default function Header() {
             />
           </div>
           <div>
-            <h1 className="text-2xl font-bold text-white">Dinestein</h1>
-            <p className="text-sm text-white">Cook More, Shop Less</p>
+            <h1 className="text-2xl font-bold text-white">Dinstein</h1>
+            <p className="text-sm text-white">Plan It or Grab It — Dinestein Decides</p>
           </div>
         </div>
       </div>
